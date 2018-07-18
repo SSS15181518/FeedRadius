@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Feed Radius</string>
+    <string name="title_activity_feedback">feedback</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="category">Category</string>
+    <string-array name="category_names">
+        <item>FOOD</item>
+        <item>PANTRY</item>
+        <item>MANAGER</item>
+        <item>MANAGER OF MANAGER</item>
+        <item>HR</item>
+    </string-array>
+</resources>
